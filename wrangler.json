@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "blue-sea-97c9",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "81a85276-d722-47df-a1dc-05983baf6843",
+      "database_name": "white-frog-b2cf-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
